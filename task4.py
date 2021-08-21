@@ -6,14 +6,3 @@ def run_task4():
     for word_list_elem in word_list:
         print(f'{word_list_index} - {word_list_elem [0:10]}')
         word_list_index = word_list_index + 1
-
-
-
-
-
-
-
-
-
-
-

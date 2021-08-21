@@ -13,13 +13,3 @@ def run_task5():
                 new_elem_insert_index = new_elem_insert_index + 1
         rating_list.insert(new_elem_insert_index, new_elem)
         print(rating_list)
-
-
-
-
-
-
-
-
-
-

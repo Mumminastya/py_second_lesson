@@ -12,4 +12,3 @@ def run_task2():
         list_user[list_user_index + 1] = x
         list_user_index = list_user_index + 2
     print(list_user)
-
